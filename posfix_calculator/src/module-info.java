@@ -1,2 +1,0 @@
-module posfix_calculator {
-}
